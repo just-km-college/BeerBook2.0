@@ -6,4 +6,5 @@ Forum for beer enthusiasts.
 2. React
 3. MongoDB
 
+## Figma
 ![alt text](https://github.com/just-km-college/BeerBook2.0/blob/main/figma.png)
